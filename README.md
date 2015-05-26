@@ -6,7 +6,7 @@ A simple chat server built with Node JS. Taken from <a href="https://www.youtube
 
 Initialise a chat server by using Bash to start the application:
 
-**node app.js**.
+**node app.js**
 
 Leave the web server running, open a new tab and connect to the chat server by running this Telnet command:
 
